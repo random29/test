@@ -1,1 +1,1 @@
-https://travis-ci.com/random29/test.svg?branch=master
+image:https://travis-ci.com/random29/test.svg?branch=master["Build Status", link="https://travis-ci.com/random29/test"]
