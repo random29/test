@@ -1,1 +1,1 @@
-[image:https://travis-ci.com/random29/test.svg?branch=master["Build Status", link="https://travis-ci.com/random29/test"]]
+[![Build Status](https://travis-ci.com/random29/test.svg?branch=master)](https://travis-ci.com/random29/test)
